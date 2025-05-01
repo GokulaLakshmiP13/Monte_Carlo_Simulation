@@ -22,3 +22,5 @@ The risk-free rate (Rᶠ) is *2%*.
 6. *Manually calculate E(Rₚ) using CAPM.*
 
 7. *Compare the manual results with the Monte Carlo simulation to verify alignment.*
+
+     https://github.com/GokulaLakshmiP13/Monte_Carlo_Simulation/blob/712892be346fdc46d16ed08b39bf2f39ddfa1872/IMG_20250502_021418.png
